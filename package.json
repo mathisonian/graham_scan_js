@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Implementation of the Graham Scan algorithm to calculate a convex hull from a given array of x, y coordinates.",
   "license": "MIT",
+  "main": "src/graham_scan.js",
   "directories": {
     "test": "test",
     "lib": "src"
